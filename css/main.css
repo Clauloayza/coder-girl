@@ -22,6 +22,9 @@ header h2{
     color: #a7a6a6;
     margin-top: 1px;
 }
+ /*-------header .navbar-fixed-top{
+    background: rgba(255, 247, 247, 0.93);
+}-----*/
 /*----------------------------HERO-------*/
 .hero{
     background-image: url(../img/home.jpg);
