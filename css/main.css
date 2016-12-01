@@ -15,16 +15,12 @@ button a{
     text-decoration: none;
 }
 /*----------------------------HEADER-------*/
+header{
+    background: #f8f8f8;
+}
 header h2{
     color: #a7a6a6;
-}
-header ul{
-    float: right;
-    margin-top: 13px;
-}
-header ul a{
-    color: #a7a6a6;
-    font-weight: bold;
+    margin-top: 1px;
 }
 /*----------------------------HERO-------*/
 .hero{
